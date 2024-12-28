@@ -11,4 +11,4 @@ STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
 
 ## 软件架构
 
-![](plan overview/1.png)
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
