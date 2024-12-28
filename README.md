@@ -13,6 +13,7 @@ STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
 
 
 ## 软件
+基于C语言的hal库构建，使用STM32CubeMX初始化操作
 ![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/1.png)   
 <br><br><br>
 
