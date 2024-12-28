@@ -12,5 +12,5 @@ STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
 ## 软件
 ![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/1.png) 
 
-## 心电图事例
+## 心电图示例
 ![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/2.png)
