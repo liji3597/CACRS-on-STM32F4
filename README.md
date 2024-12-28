@@ -8,6 +8,6 @@
 
 ## 硬件
 STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
+![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/2.png)
 
-
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif )
+![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/1.png) 
