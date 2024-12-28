@@ -10,3 +10,5 @@
 STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
 
 ## 软件架构
+
+![image-20241227214906981](C:\Users\asd10\AppData\Roaming\Typora\typora-user-images\image-20241227214906981.png)
