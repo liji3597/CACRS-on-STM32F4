@@ -7,11 +7,11 @@
 采用24bits模拟前端芯片ADS1292R设计心电信号采集电路，利用FIR带通滤波器去除基线漂移和心肌电信号干扰，获得稳定可靠的心电信号，通过阈值分割法测量R波周期，计算出精确的心率。 
 
 ## 硬件
-STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）
+STM32F429/407, ADS1292R，MPU6050，LCD屏幕，Max-bit（K210版）  
   
 
 ## 软件
-![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/1.png) 
+![](https://github.com//liji3597/CACRS-on-STM32F4/raw/main/planoverview/1.png)   
   
 
 ## 心电图示例
